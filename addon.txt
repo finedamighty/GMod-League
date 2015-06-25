@@ -1,0 +1,11 @@
+"AddonInfo"
+{
+	"name"		"Mew's Resources"
+	"version"	"0.01"
+	"up_date"	"xxx"
+	"author_name"	"MewTheCrazY aka. Estlandier, FineDaMighty"
+	"author_email"	""
+	"author_url"	""
+	"info"		"MEW"
+	"override"	"0"
+}
