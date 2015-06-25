@@ -1,12 +1,9 @@
 ENT.Type			      = "anim"
 ENT.Base                  = "base_gmodentity"
-ENT.PrintName		      = "Base resource"
+ENT.PrintName		      = "base lol ent"
 ENT.Author			      = "MewTheCrazY"
-ENT.Category			  = "Mews stuff"
+ENT.Category			  = "LOL"
 
-ENT.isMew = true
-
-ENT.AutomaticFrameAdvance = true
 ENT.Spawnable			  = true
 ENT.AdminSpawnable		  = true
 
