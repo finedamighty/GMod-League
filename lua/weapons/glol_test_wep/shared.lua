@@ -26,17 +26,16 @@ SWEP.Secondary.Ammo	= "none"
 
 --------------------------------------
 SWEP.use_mana = 100
-SWEP.owner = nil
 
 function SWEP:Initialize()
 	self:SetWeaponHoldType("pistol")
-	self.owner = self:GetOwner()
 end
 
 function SWEP:PrimaryAttack()
+	local ply = self:GetOwner()
 	local mana = ply:GetMana()
+	
 	if mana >= self.use_mana then
-		print("niga ded")
 		ply:AddGold(10)
 		ply:RemoveMana(self.use_mana)
 	else
