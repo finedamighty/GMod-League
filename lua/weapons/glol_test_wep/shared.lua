@@ -11,8 +11,8 @@ SWEP.DrawCrosshair = true
 SWEP.ViewModel = "models/weapons/v_357.mdl"
 SWEP.WorldModel = "models/weapons/w_357.mdl"
 
-SWEP.Spawnable = false
-SWEP.AdminSpawnable = false
+SWEP.Spawnable = true
+SWEP.AdminSpawnable = true
 
 SWEP.Primary.ClipSize = -1
 SWEP.Primary.DefaultClip = 100
