@@ -34,10 +34,10 @@ function SWEP:Deploy()
 
 end
 
-function SWEP:Effects() --###### Energy Muzzle and Recoil Effect @RononDex,aVoN
+function SWEP:Effects()
 
 end
 
-function SWEP:PrimaryAttack() --###### Shoot @Ronondex, aVoN
+function SWEP:PrimaryAttack()
 
 end
