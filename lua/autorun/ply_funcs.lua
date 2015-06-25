@@ -2,8 +2,6 @@ local mTab = FindMetaTable("Player") --get ply metatab
 
 function mTab:SetGold(amount)
 	self:SetNWFloat("gold", amount)
-	print(self:GetNWFloat("gold"))
-	print(self:GetNWFloat("exp"))
 end
 
 function mTab:AddGold(amount)
