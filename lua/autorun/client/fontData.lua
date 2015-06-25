@@ -1,0 +1,16 @@
+surface.CreateFont( "GLoL", {
+	font = "Arial",
+	size = 25,
+	weight = 1000,
+	blursize = 0,
+	scanlines = 0,
+	antialias = true,
+	underline = false,
+	italic = false,
+	strikeout = false,
+	symbol = false,
+	rotary = false,
+	shadow = false,
+	additive = false,
+	outline = false,
+} )

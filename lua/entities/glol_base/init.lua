@@ -29,5 +29,6 @@ end
 function ENT:Think()
 end
 
-function ENT:Use()
+function ENT:Use(act, ply)
+	ply:AddGold(50)
 end
