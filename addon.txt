@@ -1,6 +1,6 @@
 "AddonInfo"
 {
-	"name"		"Mew's Resources"
+	"name"		"Mew's GLoL"
 	"version"	"0.01"
 	"up_date"	"xxx"
 	"author_name"	"MewTheCrazY aka. Estlandier, FineDaMighty"
